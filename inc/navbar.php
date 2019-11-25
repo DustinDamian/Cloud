@@ -12,7 +12,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span> 
             </button>
-            <a class="navbar-brand" href="index.php"><i class="fa fa-linux"></i>&nbsp;&nbsp;LinuxStore</a>
+            <a class="navbar-brand" href="index.php"><i class=""></i>&nbsp;&nbsp;Sistema de Tickets</a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <?php if(isset($_SESSION['tipo']) && isset($_SESSION['nombre'])): ?>
@@ -74,12 +74,7 @@
                 <?php endif; ?>
 
             </ul>
-            <form class="navbar-form navbar-right hidden-xs" role="search">
-                <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Buscar">
-                </div>
-                <button type="button" class="btn btn-success">Buscar</button>
-            </form>
+            
         </div>
     </div>
 </nav>
@@ -89,7 +84,7 @@
       <div class="modal-content">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-              <h4 class="modal-title text-center text-primary" id="myModalLabel">Bienvenido a LinuxStore</h4>
+              <h4 class="modal-title text-center text-primary" id="myModalLabel">Bienvenido a Sistema de Tickets</h4>
             </div>
           <form action="" method="POST" style="margin: 20px;">
               <div class="form-group">

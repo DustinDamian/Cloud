@@ -16,27 +16,27 @@
   </ol>
     <div class="carousel-inner">
        <div class="item active">
-           <img src="img/slider1.png" alt="">
+           <img src="img/cloud.png" alt="">
           <div class="carousel-caption">
-              HP Pavilion 14-b180la
+              Cloud Computing
           </div>
        </div>
        <div class="item">
-          <img src="img/slider2.png" alt="">
+          <img src="img/iaas.png" alt="">
           <div class="carousel-caption">
-              TOSHIBA C45-ASP4307FL
+              IaaS
           </div>
        </div>
        <div class="item ">
-          <img src="img/slider3.png" alt="">
+          <img src="img/paas.png" alt="">
           <div class="carousel-caption">
-              HP ProDesk 600 SFF i5-4570
+             PaaS
           </div>
         </div>
         <div class="item ">
-          <img src="img/slider4.png" alt="">
+          <img src="img/saas.png" alt="">
           <div class="carousel-caption">
-              HP ProBook 440
+              SaaS
           </div>
         </div>
    </div>
@@ -57,7 +57,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-        <h1 class="text-center text-info">Distribuciones de GNU Linux en nuestros productos</h1>
+        <h1 class="text-center text-info">Productos y servicios</h1>
     </div>
   </div>
 </div>
@@ -65,71 +65,55 @@
 <div class="container">
     <div class="row">
         <div class="col-xs-12 col-md-6 thumbnail">
-            <h3 class="text-center">LinuxMint</h3>
-            <img  src="img/logoMint.png" class="img-responsive logos_GnuLinux" alt="Image">
+            <h3 class="text-center">CRM</h3>
+            <img  src="img/Logocrm.png" class="img-responsive logos_GnuLinux" alt="Image">
              <p>
-                 Linux Mint es una distribución del sistema operativo GNU/Linux, basado en la distribución 
-                 Ubuntu (que a su vez está basada en Debian). A partir del 7 de septiembre de 2010 también 
-                 está disponible una edición basada en Debian.<br>
-                 Linux Mint mantiene un inventario actualizado, un sistema operativo estable para el usuario medio, 
-                 con un fuerte énfasis en la usabilidad y facilidad de instalación. Es reconocido por ser fácil de usar, 
-                 especialmente para los usuarios sin experiencia previa en Linux.<br>
-                 Linux Mint se compone de muchos paquetes de software, los cuales se distribuyen la mayor parte bajo una 
-                 licencia de software libre. La principal licencia utilizada es la GNU General Public License (GNU GPL) que, 
-                 junto con la GNU Lesser General Public License (GNU LGPL), declara explícitamente que los usuarios tienen libertad 
-                 para ejecutar, copiar, distribuir, estudiar, cambiar, desarrollar y mejorar el software.
+                Es fácil de usar <br>
+                Interfaz de usuario simple y sencilla con una curva de aprendizaje mínima.
+                Capacidad para configurar y empezar a vender desde el primer día.
+                <br><br>
+                Muchas funciones
+                Funciones de automatización de ventas de primer nivel para automatizar todo su proceso comercial.
+                Pase más tiempo interactuando con sus clientes y menos en la introducción manual de datos.
+                <br><br>
+                Personalizable
+                Personalice completamente su experiencia de CRM sin escribir una sola línea de código.
+                Integración sencilla en aplicaciones comerciales de terceros que utiliza a diario.
              </p>
              <p class="text-center">
                 <a href="#" class="btn btn-primary btn-sm" role="button">Leer más</a>
              </p>
         </div>
         <div class="col-xs-12 col-md-6 thumbnail">
-          <h3 class="text-center">Fedora</h3>
-            <img src="img/logoFedora.png" class="img-responsive logos_GnuLinux" alt="Image">
+          <h3 class="text-center">Infraestructura como servicio</h3>
+            <img src="img/Infraestructura.png" class="img-responsive logos_GnuLinux" alt="Image">
             <p>
-             Fedora es una distribución Linux para propósitos generales basada en RPM, que se caracteriza 
-             por ser un sistema estable, la cual es mantenida gracias a una comunidad internacional de ingenieros, 
-             diseñadores gráficos y usuarios que informan de fallos y prueban nuevas tecnologías. Cuenta con el respaldo 
-             y la promoción de Red Hat.<br>
-             El proyecto no busca sólo incluir software libre y de código abierto, sino ser el líder en ese ámbito tecnológico.
-             Algo que hay que destacar es que los desarrolladores de Fedora prefieren hacer cambios en las fuentes originales 
-             en lugar de aplicar los parches específicos en su distribución, de esta forma se asegura que las actualizaciones 
-             estén disponibles para todas las variantes de Linux. Max Spevack en una entrevista afirmó que: "Hablar de Fedora es hablar 
-             del rápido progreso del software libre y de código abierto." Durante sus primeras 6 versiones se llamó Fedora Core, debido
-             a que solo incluía los paquetes más importantes del sistema operativo.
+             IaaS es el nivel más básico de soluciones basadas en la nube, que se refiere al alquiler de una infraestructura de TI como un servicio totalmente subcontratado. En esta categoría, el proveedor de la nube le permite alquilar servidores, máquinas virtuales, almacenamiento, redes y sistemas operativos de pago por uso.
+             <br><br>
+             IaaS es la parte elemental de la computación en la nube, ya que es la que se encarga de proporcionar los recursos informáticos sobre los que seguiremos implementando el resto de conceptos.
+            <br><br>
+              Por ejemplo, en vez de tener 10 ordenadores físicos con Linux y 4 GB de RAM cada uno, podemos «virtualizarlos» en la nube y trabajar con ellos como si fueran sistemas físicos, aunque en realidad no lo son, están virtualizados dentro de un servidores
             </p>
             <center><a href="#" class="btn btn-primary btn-sm" role="button">Leer más</a></center>
         </div>
         <div class="col-xs-12 col-md-6 thumbnail">
-            <h3 class="text-center">Ubuntu</h3>
-            <img src="img/logoUbuntu.png" class="img-responsive logos_GnuLinux" alt="Image">
+            <h3 class="text-center">Software como servicio</h3>
+            <img src="img/software.png" class="img-responsive logos_GnuLinux" alt="Image">
             <p>
-             Ubuntu es un sistema operativo basado en Linux y que se distribuye como software libre, 
-             el cual incluye su propio entorno de escritorio denominado Unity. Su nombre proviene de 
-             la ética homónima, en la que se habla de la existencia de uno mismo como cooperación de 
-             los demás.<br>
-             Está orientado al usuario novel y promedio, con un fuerte enfoque en la facilidad de uso 
-             y en mejorar la experiencia de usuario. Está compuesto de múltiple software normalmente distribuido 
-             bajo una licencia libre o de código abierto. Estadísticas web sugieren que la cuota de mercado de 
-             Ubuntu dentro de las distribuciones Linux es, aproximadamente, del 49%, y con una tendencia a aumentar 
-             como servidor web. Y un importante incremento activo de 20 millones de usuarios para fines del 2011.
+             SaaS, acrónimo de Software as a Service, es un modelo de distribución de software por el que terceros desarrolladores ofrecen ciertas aplicaciones a través de Internet accesibles solo a través de un cliente propio. Aunque no lo sepamos, este tipo de computación en la nube la utilizamos casi a diario, por ejemplo, al conectarnos a Twitter o Facebook desde sus respectivos clientes o al ver un vídeo o una película en streaming, por ejemplo, desde Netflix.
+            <br><br>
+              Muchos defensores del software libre, como Richard Stallman, han criticado el SaaS ya que, según ellos, usar estos clientes es como usar software privativo
             </p>
             <center><a href="#" class="btn btn-primary btn-sm" role="button">Leer más</a></center>
         </div>
         <div class="col-xs-12 col-md-6 thumbnail">
-            <h3 class="text-center">Debian</h3>
-            <img src="img/logoDebian.png" class="img-responsive logos_GnuLinux" alt="Image">
+            <h3 class="text-center">Plataforma como servicio</h3>
+            <img src="img/Plataforma.png" class="img-responsive logos_GnuLinux" alt="Image">
             <p>
-                Debian GNU/Linux es un sistema operativo libre, desarrollado por más de mil voluntarios 
-                alrededor del mundo, que colaboran a través de Internet.
-                La dedicación de Debian al software libre, su base de voluntarios, su naturaleza no comercial
-                y su modelo de desarrollo abierto la distingue de otras distribuciones del sistema operativo 
-                GNU. Todos estos aspectos y más se recogen en el llamado Contrato Social de Debian.
+                PaaS es la solución en la nube donde, además de proporcionar una infraestructura, los proveedores de la nube también emiten un entorno informático a pedido para desarrollar, probar, ejecutar y colaborar con componentes como servidores web, sistemas de gestión de bases de datos y kits de desarrollo de software (SDK) para Varios lenguajes de programación.
             </p>
             <p>
-                Nació en el año 1993, de la mano del proyecto Debian, con la idea de crear un sistema GNU usando
-                Linux como núcleo ya que el proyecto Debian, organización responsable de su mantenimiento en la 
-                actualidad, también desarrolla sistemas GNU basados en otros núcleos (Debian GNU/Hurd, Debian GNU/NetBSD y Debian GNU/kFreeBSD).
+                PaaS, acrónimo de Platform as a Service, es un concepto de computación en la nube mediante la cual los usuarios pueden desarrollar, ejecutar y administrar aplicaciones sin preocuparse por la infraestructura que haya por debajo. De esta manera, los desarrolladores solo tienen que preocuparse por la programación de las aplicaciones, nunca por la configuración ni el software que hay por debajo, ahorrando tiempo y recursos.
             </p>
             <center><a href="#" class="btn btn-primary btn-sm" role="button">Leer más</a></center>
         </div>

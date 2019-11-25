@@ -25,7 +25,7 @@
           $asunto_ticket= MysqlQuery::RequestPost('asunto_ticket');        
           $mensaje_ticket=  MysqlQuery::RequestPost('mensaje_ticket');
           $estado_ticket="Pendiente";
-          $cabecera="From: LinuxStore El Salvador<linuxstore@hifenix.com>";
+          $cabecera="From: Sistema de Tickets<cloudcomputing@cloud.com>";
           $mensaje_mail="¡Gracias por reportarnos su problema! Buscaremos una solución para su producto lo mas pronto posible. Su ID ticket es: ".$id_ticket;
           $mensaje_mail=wordwrap($mensaje_mail, 70, "\r\n");
 
@@ -168,11 +168,11 @@
         <div class="row">
             <div class="col-sm-4">
                 <img src="./img/Stop.png" alt="Image" class="img-responsive"/><br>
-                <img src="./img/SadTux.png" alt="Image" class="img-responsive"/>
+                
                 
             </div>
             <div class="col-sm-7 text-center">
-                <h1 class="text-danger">Lo sentimos esta página es solamente para usuarios registrados en LinuxStore</h1>
+                <h1 class="text-danger">Lo sentimos esta página es solamente para usuarios registrados en Sistema de Tickets</h1>
                 <h3 class="text-info">Inicia sesión para poder acceder</h3>
             </div>
             <div class="col-sm-1">&nbsp;</div>

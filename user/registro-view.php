@@ -70,7 +70,7 @@
     </div>
 
     <div class="col-sm-4 text-center hidden-xs">
-      <img src="img/linux.png" class="img-responsive" alt="Image">
+      <img src="img/Log.png" class="img-responsive" alt="Image">
       <h2 class="text-primary">¡Gracias! Por preferirnos</h2>
     </div>
 

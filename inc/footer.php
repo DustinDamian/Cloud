@@ -11,10 +11,10 @@
       <div class="col-sm-4">
         <h4 class="text-info">Dirección</h4>
         <p class="text-warning"> 
-        Pais: El Salvador<br>
-        Ciudad: Ciudad<br>
-        Telefono: +503 00000000<br>
-        E-mail: <a href="#">linuxstore@LStore.com</a>
+        Pais:Guatemala<br>
+        Ciudad:Guatemala<br>
+        Telefono: 24328230<br>
+        E-mail: <a href="#">cloudcomputing@cloud.com</a>
         </p>
       </div>
       <div class="col-sm-4">
@@ -30,6 +30,6 @@
         </form>
       </div>
     </div>
-    <h4 class="text-center" style="color: #FFF;">LinuxStore CopyRight © 2018</h4>
+    <h4 class="text-center" style="color: #FFF;">Cloud Computing</h4>
   </div>
 </footer>

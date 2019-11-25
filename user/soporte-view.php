@@ -1,10 +1,10 @@
 <div class="container">
   <div class="row well">
     <div class="col-sm-3">
-      <img src="img/tux_repair.png" class="img-responsive" alt="Image">
+      <img src="img/support.png" class="img-responsive" alt="Image">
     </div>
     <div class="col-sm-9 lead">
-      <h2 class="text-info">Bienvenido al centro de soporte de LinuxStore</h2>
+      <h2 class="text-info">Bienvenido al centro de soporte de Sistema de Tickets</h2>
       <p>Es muy facil de usar, si usted tiene problemas con alguno de nuestros productos nos puede enviar un nuevo ticket, nosotros lo respondemos y solucionaremos su problema.<br>Si ya nos ha enviado un ticket puede consultar el estado de este mediante su <strong>Ticket ID</strong>.</p>
     </div>
   </div><!--fin row 1-->

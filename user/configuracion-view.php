@@ -70,8 +70,8 @@
               <img src="img/settings.png" alt="Image" class="img-responsive">
             </div>
             <div class="col-sm-9 lead">
-              <h2 class="text-info">Bienvenido a la configuración de cuenta LinuxStore</h2>
-              <p>Puedes <strong>actualizar los datos</strong> de tu cuenta ó puedes <strong>eliminar tu cuenta</strong> permanentemente si ya no deseas ser usuario de LinuxStore</p>
+              <h2 class="text-info">Bienvenido a la configuración de cuenta Sistema de Tickets</h2>
+              <p>Puedes <strong>actualizar los datos</strong> de tu cuenta ó puedes <strong>eliminar tu cuenta</strong> permanentemente si ya no deseas ser usuario de Sistema de Tickets</p>
             </div>
           </div><!--Fin row well-->
           

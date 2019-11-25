@@ -24,7 +24,7 @@ if($_SESSION['tipo']!="admin"){
             <div class="col-sm-12">
               <div class="page-header">
                 <h1 class="animated lightSpeedIn">Panel Administrativo</h1>
-                <span class="label label-danger">LinuxStore S.A de C.V</span>
+                <span class="label label-danger">Sistema de Tickets</span>
                 <p class="pull-right text-primary">
                   <strong>
                   <?php include "./inc/timezone.php"; ?>
