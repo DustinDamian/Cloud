@@ -16,7 +16,7 @@ header('Content-Type: text/html; charset=UTF-8');
           <div class="row">
             <div class="col-sm-12">
               <div class="page-header">
-                <h1 class="animated lightSpeedIn">Sistema de Tickets<small>Dustin Aldana Damian</small></h1>
+                <h1 class="animated lightSpeedIn">Sistema de Tickets<small>Dustin Aldana</small></h1>
                 <span class="label label-danger">Sistema de Tickets</span>
                 <p class="pull-right text-primary">
                   <strong>
